@@ -9,6 +9,7 @@ enum class Colors
     Green,
     Black,
     Blue,
+    
     Gray,
     Yellow
 };
